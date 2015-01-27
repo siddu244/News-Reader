@@ -47,8 +47,7 @@ RSS feeds of top websites are lasted below which be used :
  	
  	entertainment and arts - http://feeds.bbci.co.uk/ne ws/entertainment_and_arts/rss.xml
  	
-
- 7.ndtv
+7.ndtv
  	top - http://feeds.feedburner.com/NdtvNews-TopStories
  	
  	cricket - http://feeds.feedburner.com/NDTV-Cricket
@@ -77,8 +76,7 @@ RSS feeds of top websites are lasted below which be used :
  	
  	india news- http://feeds.feedburner.com/ndtv/Lsgd
 
-
- 8. cnn
+8. cnn
  	top -http://rss.cnn.com/rss/edition.rss
 
  	world- http://rss.cnn.com/rss/edition_world.rss
@@ -99,7 +97,7 @@ RSS feeds of top websites are lasted below which be used :
  	
  	recent - http://rss.cnn.com/rss/cnn_latest.rss
 
- 9. timesofindia 
+9. timesofindia 
 	 	http://timesofindia.indiatimes.com/rss.cms
 
 	 	most recent - http://timesofindia.feedsportal.com/c/33039/f/533965/index.rss
@@ -108,10 +106,10 @@ RSS feeds of top websites are lasted below which be used :
 	 	
 	 	world- http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
  	
- 10. econict imes 
+10. econict imes 
 	http://economictimes.indiatimes.com/rss.cms
 
- 11.  movies
+11.  movies
 		Movie news and blog -http://feeds.filmjabber.com/EriksMovieReviewsAndOtherRantsAndRaves
 		
 		New movie contests -http://feeds.filmjabber.com/Movie-sourcecomMovieContests
@@ -128,12 +126,12 @@ RSS feeds of top websites are lasted below which be used :
 		
 		New movie posters - http://feeds.filmjabber.com/Movie-sourcecomMoviePosters
 
- 12. ibn news
+12. ibn news
  		http://ibnlive.in.com/rss/
 
- 13 . indian cinema  gallery 
+13 . indian cinema  gallery 
 		http://www.indiancinemagallery.com/feed/
 
- 14. espncrickinfo
+14. espncrickinfo
 		http://www.espncricinfo.com/ci/content/rss/feeds_rss_cricket.html
 
