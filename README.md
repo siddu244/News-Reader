@@ -49,11 +49,11 @@ RSS feeds of top websites are lasted below which be used :
  	
 7.ndtv
 
-top - http://feeds.feedburner.com/NdtvNews-TopStories
+ 	top - http://feeds.feedburner.com/NdtvNews-TopStories
  	
-cricket - http://feeds.feedburner.com/NDTV-Cricket
+ 	cricket - http://feeds.feedburner.com/NDTV-Cricket
  	
-world- http://feeds.feedburner.com/ndtv/TqgX
+ 	world- http://feeds.feedburner.com/ndtv/TqgX
  	
 latest - http://feeds.feedburner.com/NDTV-LatestNews
  	
