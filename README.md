@@ -49,35 +49,36 @@ RSS feeds of top websites are lasted below which be used :
  	
 7.ndtv
 
- 	top - http://feeds.feedburner.com/NdtvNews-TopStories
+top - http://feeds.feedburner.com/NdtvNews-TopStories
  	
- 	cricket - http://feeds.feedburner.com/NDTV-Cricket
+cricket - http://feeds.feedburner.com/NDTV-Cricket
  	
- 	world- http://feeds.feedburner.com/ndtv/TqgX
+world- http://feeds.feedburner.com/ndtv/TqgX
  	
- 	latest - http://feeds.feedburner.com/NDTV-LatestNews
+latest - http://feeds.feedburner.com/NDTV-LatestNews
  	
- 	other sports - http://feeds.feedburner.com/NDTV-Sports
+other sports - http://feeds.feedburner.com/NDTV-Sports
  	
- 	trending stories - http://feeds.feedburner.com/NDTV-Trending
+trending stories - http://feeds.feedburner.com/NDTV-Trending
  	
- 	movies- http://feeds.feedburner.com/NDTV-Ent
+movies- http://feeds.feedburner.com/NDTV-Ent
  	
- 	technology news- http://feeds.feedburner.com/NDTV-Tech
+technology news- http://feeds.feedburner.com/NDTV-Tech
  	
- 	karnataka news - http://feeds.feedburner.com/News-Karnataka
+karnataka news - http://feeds.feedburner.com/News-Karnataka
  	
- 	kerala news - http://feeds.feedburner.com/News-Kerala
+kerala news - http://feeds.feedburner.com/News-Kerala
  	
- 	tamil nadu news - http://feeds.feedburner.com/News-TN
+tamil nadu news - http://feeds.feedburner.com/News-TN
  	
- 	andra news - http://feeds.feedburner.com/News-AP
+andra news - http://feeds.feedburner.com/News-AP
  	
- 	business news- http://feeds.feedburner.com/NDTV-Business
+business news- http://feeds.feedburner.com/NDTV-Business
  	
- 	india news- http://feeds.feedburner.com/ndtv/Lsgd
+india news- http://feeds.feedburner.com/ndtv/Lsgd
 
-8. cnn
+8.CNN
+
  	top -http://rss.cnn.com/rss/edition.rss
 
  	world- http://rss.cnn.com/rss/edition_world.rss
