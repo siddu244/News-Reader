@@ -111,7 +111,7 @@ RSS feeds of top websites are lasted below which be used :
  10. econict imes 
 	http://economictimes.indiatimes.com/rss.cms
 
-11. movies
+ 11.  movies
 		Movie news and blog -http://feeds.filmjabber.com/EriksMovieReviewsAndOtherRantsAndRaves
 		
 		New movie contests -http://feeds.filmjabber.com/Movie-sourcecomMovieContests
@@ -128,12 +128,12 @@ RSS feeds of top websites are lasted below which be used :
 		
 		New movie posters - http://feeds.filmjabber.com/Movie-sourcecomMoviePosters
 
-12. ibn news
+ 12. ibn news
  		http://ibnlive.in.com/rss/
 
-13 . indian cinema  gallery 
+ 13 . indian cinema  gallery 
 		http://www.indiancinemagallery.com/feed/
 
-14. espncrickinfo
+ 14. espncrickinfo
 		http://www.espncricinfo.com/ci/content/rss/feeds_rss_cricket.html
 
