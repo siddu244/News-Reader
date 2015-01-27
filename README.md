@@ -79,39 +79,40 @@ india news- http://feeds.feedburner.com/ndtv/Lsgd
 
 8.CNN
 
- 	top -http://rss.cnn.com/rss/edition.rss
+ top -http://rss.cnn.com/rss/edition.rss
 
- 	world- http://rss.cnn.com/rss/edition_world.rss
+ world- http://rss.cnn.com/rss/edition_world.rss
  	
- 	tech - http://rss.cnn.com/rss/edition_technology.rss
+ tech - http://rss.cnn.com/rss/edition_technology.rss
  	
- 	science and space - http://rss.cnn.com/rss/edition_space.rss
+ science and space - http://rss.cnn.com/rss/edition_space.rss
  	
- 	entertainment - http://rss.cnn.com/rss/edition_entertainment.rss
+ entertainment - http://rss.cnn.com/rss/edition_entertainment.rss
  	
- 	world sport- http://rss.cnn.com/rss/edition_sport.rss
+ world sport- http://rss.cnn.com/rss/edition_sport.rss
  	
- 	football - http://rss.cnn.com/rss/edition_football.rss
+ football - http://rss.cnn.com/rss/edition_football.rss
  	
- 	tennis - http://rss.cnn.com/rss/edition_tennis.rss
+ tennis - http://rss.cnn.com/rss/edition_tennis.rss
  	
- 	travel - http://travel.cnn.com/rss.xml
+ travel - http://travel.cnn.com/rss.xml
  	
- 	recent - http://rss.cnn.com/rss/cnn_latest.rss
+ recent - http://rss.cnn.com/rss/cnn_latest.rss
 
-9. timesofindia 
-	 	http://timesofindia.indiatimes.com/rss.cms
+9.TimesofIndia
 
-	 	most recent - http://timesofindia.feedsportal.com/c/33039/f/533965/index.rss
+ http://timesofindia.indiatimes.com/rss.cms
+
+ most recent - http://timesofindia.feedsportal.com/c/33039/f/533965/index.rss
 	 	
-	 	business - http://timesofindia.feedsportal.com/c/33039/f/533919/index.rss
+ business - http://timesofindia.feedsportal.com/c/33039/f/533919/index.rss
 	 	
-	 	world- http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+ world- http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
  	
-10. econict imes 
+10.econict imes 
 	http://economictimes.indiatimes.com/rss.cms
 
-11.  movies
+11.movies
 		Movie news and blog -http://feeds.filmjabber.com/EriksMovieReviewsAndOtherRantsAndRaves
 		
 		New movie contests -http://feeds.filmjabber.com/Movie-sourcecomMovieContests
@@ -128,12 +129,12 @@ india news- http://feeds.feedburner.com/ndtv/Lsgd
 		
 		New movie posters - http://feeds.filmjabber.com/Movie-sourcecomMoviePosters
 
-12. ibn news
+12.ibn news
  		http://ibnlive.in.com/rss/
 
-13 . indian cinema  gallery 
+13.indian cinema  gallery 
 		http://www.indiancinemagallery.com/feed/
 
-14. espncrickinfo
+14.espncrickinfo
 		http://www.espncricinfo.com/ci/content/rss/feeds_rss_cricket.html
 
