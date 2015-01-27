@@ -10,13 +10,13 @@ RSS feeds of top websites are lasted below which be used :
 
 3. techcrunh
 
-		home- http://feeds.feedburner.com/TechCrunch/
+	home- http://feeds.feedburner.com/TechCrunch/
 
-		mobile- http://feeds.feedburner.com/Mobilecrunch/
+	mobile- http://feeds.feedburner.com/Mobilecrunch/
 	
-		gadgets - http://feeds.feedburner.com/crunchgear/
+	gadgets - http://feeds.feedburner.com/crunchgear/
 	
-		startups - http://feeds.feedburner.com/TechCrunch/startups/
+	startups - http://feeds.feedburner.com/TechCrunch/startups/
 	
 
 4. hacker news
