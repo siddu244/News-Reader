@@ -99,9 +99,7 @@ india news- http://feeds.feedburner.com/ndtv/Lsgd
  	
  recent - http://rss.cnn.com/rss/cnn_latest.rss
 
-9.TimesofIndia
-
- http://timesofindia.indiatimes.com/rss.cms
+9.TimesofIndia  - http://timesofindia.indiatimes.com/rss.cms
 
  most recent - http://timesofindia.feedsportal.com/c/33039/f/533965/index.rss
 	 	
@@ -113,21 +111,22 @@ india news- http://feeds.feedburner.com/ndtv/Lsgd
 	http://economictimes.indiatimes.com/rss.cms
 
 11.movies
-		Movie news and blog -http://feeds.filmjabber.com/EriksMovieReviewsAndOtherRantsAndRaves
-		
-		New movie contests -http://feeds.filmjabber.com/Movie-sourcecomMovieContests
-		
-		Movies now playing in theaters -http://feeds.filmjabber.com/Movie-sourcecomCurrentMovies
-		
-		Movies coming soon to theaters -http://feeds.filmjabber.com/Movies-Coming-Soon-FilmJabber
-		
-		Theatrical movie reviews - http://feeds.filmjabber.com/Movie-sourcecomTheatricalReviews-Last20
 
-		Movie updates - http://feeds.filmjabber.com/Movie-sourcecomMovieUpdates
+Movie news and blog -http://feeds.filmjabber.com/EriksMovieReviewsAndOtherRantsAndRaves
 		
-		New movie trailers - http://feeds.filmjabber.com/Movie-sourcecomMovieTrailers
+New movie contests -http://feeds.filmjabber.com/Movie-sourcecomMovieContests
 		
-		New movie posters - http://feeds.filmjabber.com/Movie-sourcecomMoviePosters
+Movies now playing in theaters -http://feeds.filmjabber.com/Movie-sourcecomCurrentMovies
+		
+Movies coming soon to theaters -http://feeds.filmjabber.com/Movies-Coming-Soon-FilmJabber
+		
+Theatrical movie reviews - http://feeds.filmjabber.com/Movie-sourcecomTheatricalReviews-Last20
+
+Movie updates - http://feeds.filmjabber.com/Movie-sourcecomMovieUpdates
+		
+New movie trailers - http://feeds.filmjabber.com/Movie-sourcecomMovieTrailers
+		
+New movie posters - http://feeds.filmjabber.com/Movie-sourcecomMoviePosters
 
 12.ibn news
  		http://ibnlive.in.com/rss/
