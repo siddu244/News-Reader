@@ -1,0 +1,73 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="Stylesheet" href="css/jquery.dialog.css" />
+    <link type="text/css" rel="Stylesheet" href="css/home_common_all.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<title>jquery.dialog Demos</title>
+</head>
+<body>
+<h1>jquery.dialog Demos</h1>
+<div class="jquery-script-ads" style="margin:30px auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+    <script type="text/javascript" src="js/jquery.dialog.js"></script>
+    <script type="text/javascript">
+        //定义对话框对象
+        var alertX = null;
+        //定义确认框对象
+        var confirmX = null;
+        //定义窗口对象
+        var windowX = null;
+        $(function () {
+            alertX = $.dialog.alert;
+            confirmX = $.dialog.confirm;
+            windowX = $.dialog.window;
+            $('#alertXX').bind('click', function () {
+                alertX("Alert", "I'm an alert window", function () {
+                    $.dialog.alert("Alert", "Closed");
+                });
+            });
+            $('#confirmXX').bind('click', function () {
+                confirmX("Confirm", "Action Comfirm", function () {
+                    $.dialog.alert("Confirm", "Confirmed");
+                });
+            });
+            $('#windowXX').bind('click', function () {
+                windowX("Title", "demo.htm", "0", function () {
+                    $.dialog.alert("Prompt Window", "Saved");
+                });
+            });
+        });
+    </script>
+    <input type="button" value="alert" id="alertXX" />
+    <input type="button" value="confirm" id="confirmXX" />
+    <input type="button" value="window" id="windowXX" />
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
